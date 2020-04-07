@@ -51,3 +51,13 @@
   - img_text_composition_models.py: extract ResNet18, concat image and textual embedding vectors
   - test_retrieval.py: train/test retrieval
   - inference_top10.py: inference top10 examples
+
+
+
+### Query Demo
+[!img2](https://github.com/Pyligent/image-text-multimodal-retrieval/blob/master/img/result1.png)
+
+
+[!img1](https://github.com/Pyligent/image-text-multimodal-retrieval/blob/master/img/result2.png)
+
+[!img3](https://github.com/Pyligent/image-text-multimodal-retrieval/blob/master/img/result3.png)
