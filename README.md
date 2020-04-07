@@ -17,7 +17,7 @@
 - Methods:
   - Image Features: ResNet18 AvgPool2D feature layer: 512, <img src="https://render.githubusercontent.com/render/math?math=$f_i$"> 
   - Textula Features: LSTM text encoding: hidden dim: 512, <img src="https://render.githubusercontent.com/render/math?math=$f_t$"> 
-  - Joint embedding: concatenate two vectors, concat(<img src="https://render.githubusercontent.com/render/math?math=$f_i$,$f_t$"> )
+  - Joint embedding: concatenate two vectors, concat(<img src="https://render.githubusercontent.com/render/math?math=$f_i$">,<img src="https://render.githubusercontent.com/render/math?math=$f_t$"> )
   - Train Network: 2 layer MLPs with RELU, with batch-norm and dropout(0.1)
   - Loss Function: mini-batch retreival loss (paired images)
   - Metric: Recall@Top-K(1,5,10,50,100)
