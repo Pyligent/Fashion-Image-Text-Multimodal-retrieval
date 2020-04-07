@@ -1,6 +1,6 @@
 ## Image-Text Multimodal Style Retrieval
 
-###Jeans & Pants Image Text Multimodal Retrevial
+### Jeans & Pants Image Text Multimodal Retrevial
 
 - Dataset: pants and Jeans dataset from [Fashion200k](https://github.com/xthan/fashion-200k)
   - Data Label Format: file_path, _ , attributes
