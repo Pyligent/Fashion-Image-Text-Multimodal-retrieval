@@ -1,4 +1,4 @@
-## Image-Text Multimodal Style Retrival
+## Image-Text Multimodal Style Retrieval
 
 ###Jeans & Pants Image Text Multimodal Retrevial
 
