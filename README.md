@@ -55,9 +55,9 @@
 
 
 ### Query Demo
-[!img2](https://github.com/Pyligent/image-text-multimodal-retrieval/blob/master/img/result1.png)
+![img2](https://github.com/Pyligent/image-text-multimodal-retrieval/blob/master/img/result1.png)
 
 
-[!img1](https://github.com/Pyligent/image-text-multimodal-retrieval/blob/master/img/result2.png)
+![img1](https://github.com/Pyligent/image-text-multimodal-retrieval/blob/master/img/result2.png)
 
-[!img3](https://github.com/Pyligent/image-text-multimodal-retrieval/blob/master/img/result3.png)
+![img3](https://github.com/Pyligent/image-text-multimodal-retrieval/blob/master/img/result3.png)
